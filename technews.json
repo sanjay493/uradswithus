@@ -1,0 +1,75 @@
+{
+  "technews": [{
+    "headline" : "Snooping row: Prasad defends govt move;",
+    "center_number" : "1",
+    "para1" : "Defending the government’s move to authorize 10 central agencies to intercept information on computers, Union Minister Ravi Shankar Prasad Friday asserted that the decision was taken in the interest of national security, with adequate safeguards in place.",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://www.bgr.in/news/snooping-row-prasad-defends-govt-move-says-adequate-inbuilt-safeguards-in-place/"
+  },
+
+  {
+    "headline" : "Cyber notification needed for safety of installations: MHA",
+    "center_number" : "2",
+    "para1" : "As many as 30 attempts are made daily by foreign entities to hack into or deface government portals and unlawfully extract confidential information",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://www.gadgetsnow.com/tech-news/cyber-notification-needed-for-safety-of-installations-mha/articleshow/67202860.cms"
+ },
+
+  {
+    "headline" : "Suresh Prabhu to meet Apple leadership in Davos over India manufacturing plans",
+    "center_number" : "3",
+    "para1" : "Commerce and Industry Minister Suresh Prabhu said Friday he will be meeting top leadership of US-based iPhone maker Apple in Davos next month to discuss their plan about setting up manufacturing facilities in India. He said that talks are already on with the company, and the government can look at the demands of Apple Inc for setting up its manufacturing facility in the country.",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://indianexpress.com/article/technology/tech-news-technology/prabhu-to-meet-apple-leadership-in-davos-over-india-manufacturing-plans-5505103/"
+ },
+
+  {
+    "headline" : "I’ll be disappointed if India didn't rival Silicon Valley in a decade: John Chambers",
+    "center_number" : "4",
+    "para1" : "Technology titan and former boss of internet networking company Cisco, John T Chambers has invested in 16 startups around the world, two in India — Uniphore Software Systems, a speech recognition solutions startup and Lucideus, a digital security services firm, in October this year.",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://economictimes.indiatimes.com/tech/internet/ill-be-disappointed-if-india-didnt-rival-silicon-valley-in-a-decade-john-chambers/articleshow/67207177.cms"
+ },
+
+  {
+   "headline" : "Cyber notification needed for safety of installations: MHA",
+    "center_number" : "5",
+    "para1" : "As many as 30 attempts are made daily by foreign entities to hack into or deface government portals and unlawfully extract confidential information",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://www.gadgetsnow.com/tech-news/cyber-notification-needed-for-safety-of-installations-mha/articleshow/67202860.cms"
+ },
+
+  {
+    "headline" : "Cyber notification needed for safety of installations: MHA",
+    "center_number" : "6",
+    "para1" : "As many as 30 attempts are made daily by foreign entities to hack into or deface government portals and unlawfully extract confidential information",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://www.gadgetsnow.com/tech-news/cyber-notification-needed-for-safety-of-installations-mha/articleshow/67202860.cms"
+   },
+
+  {
+    "headline" : "Cyber attacks hitting computers and webcams every five minutes",
+    "center_number" : "7",
+    "para1" : "Computers, phones and webcams that are connected to the internet suffer an attempted cyber-attack every five minutes, according to new research.",
+    "poster" : "gadget-22122018.png",
+    "link" :"https://www.telegraph.co.uk/technology/2018/12/22/cyber-attacks-hitting-computers-webcams-every-five-minutes/"
+  },
+
+  {
+    "headline" : "Cyber-hacking comes to Aotearoa",
+    "center_number" : "8",
+    "para1" : "The Government Security Communications Bureau (GCSB) has announced that Chinese hackers were responsible for cyber intrusions against New Zealand telecommunications firms who store data for individuals, public agencies and corporate entities.",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://www.radionz.co.nz/news/on-the-inside/378835/cyber-hacking-comes-to-aotearoa"
+ },
+
+  {
+    "headline" : "Uber Says Will Resume Self-Driving Car Testing in Pennsylvania",
+    "center_number" : "9",
+    "para1" : "Uber Technologies on Thursday is resuming limited self-driving car testing on public roads in Pittsburgh, nine months after it suspended the program following a deadly accident in Arizona.",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://gadgets.ndtv.com/apps/news/uber-says-will-resume-self-driving-car-testing-in-pennsylvania-1966333"
+ }
+                    ]
+
+}
