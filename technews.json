@@ -76,6 +76,13 @@
     "para1" : "5G is going to be the buzz word in 2019. Several OEMs like OnePlus, Xiaomi, Samsung, and some others have already confirmed that they are working on a 5G phone to bring in 2019. Now, there’s a new addition to the list. It’s Vivo. The Chinese smartphone maker is already on the development stage of the 5G phone and will be among the first smartphone companies to launch it in 2019. But will the 5G Vivo phone come to India? Well, whenever the market is ready for a 5G phone, Vivo will launch its 5G phone in India.",
     "poster" : "gadget-22122018.png",
     "link" : "https://www.indiatoday.in/technology/news/story/vivo-5g-phone-india-launch-report-1415089-2018-12-22"
+ },
+ {
+    "headline" : "github commands to update only single file",
+    "center_number" : "11",
+    "para1" : "You are not pushing files but changes. So if you have cloned a repository with a lot of files and only changed one of them, you're only sending in the change to that one file. In your case that would be",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://stackoverflow.com/questions/17468036/github-commands-to-update-only-single-file"
  }                   ]
 
 }
