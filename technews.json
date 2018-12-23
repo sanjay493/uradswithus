@@ -83,6 +83,20 @@
     "para1" : "You are not pushing files but changes. So if you have cloned a repository with a lot of files and only changed one of them, you're only sending in the change to that one file. In your case that would be",
     "poster" : "gadget-22122018.png",
     "link" : "https://stackoverflow.com/questions/17468036/github-commands-to-update-only-single-file"
+ },
+ {
+    "headline" : "Beginner Express.js Tutorial | Building a Star Wars Movie App (Part 1)",
+    "center_number" : "11",
+    "para1" : "In this introductory Express.js tutorial series, we are going to be building a Star Wars themed movie application. We are using Express.js, which is a web framework for Node.js.",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://youtu.be/NALxjuyRXaE"
+ },
+ {
+    "headline" : "Beginner Express.js Tutorial | Building a Star Wars Movie App (Part 2)",
+    "center_number" : "12",
+    "para1" : "In this introductory Express.js tutorial series, we are going to be building a Star Wars themed movie application. We are using Express.js, which is a web framework for Node.js.",
+    "poster" : "gadget-22122018.png",
+    "link" : "https://www.youtube.com/watch?v=TVrfhONc8Jw"
  }                   ]
 
 }
